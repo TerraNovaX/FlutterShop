@@ -1,7 +1,9 @@
-# flutter_application_1
+# FlutterShop
 
-fluttershop-web.vercel.app
+Bienvenue dans mon application FlutterShop !
 
+👉 Accéder à la version Web :  
+[https://fluttershop.vercel.app](https://fluttershop.vercel.app)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
