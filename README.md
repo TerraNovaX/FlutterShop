@@ -1,6 +1,6 @@
 # flutter_application_1
 
-- [versel: lien du site web](fluttershop-web.vercel.app)
+fluttershop-web.vercel.app
 
 ## Getting Started
 
