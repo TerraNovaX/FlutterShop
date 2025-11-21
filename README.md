@@ -3,7 +3,8 @@
 Bienvenue dans mon application FlutterShop !
 
 👉 Accéder à la version Web :  
-https://fluttershop-web.vercel.app/
+[https://fluttershop-web.vercel.app/
+](https://fluttershop-web.vercel.app/#/login)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
